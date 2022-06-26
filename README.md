@@ -13,3 +13,4 @@
 ### 기계독해 테스트 셋 정의 및 모델 성능제시
 ### AIDA 공개를 위한 SW 패키징 및 모델 Card 기반 문서 작성
 ### 사전학습 언어모델(KorSciBert, KorSciElectra) 관련 문서화
+### T5 model study
